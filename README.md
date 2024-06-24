@@ -1,10 +1,60 @@
 <h1 align="center">Hi, My name is Ivan!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+<h2 align="center">I am a Data Analyst from Russia.</h2>
+
+<h2>This is my portfolio for data analytics projects:</h2>
+<ol>
+   <li>
+      <h3>Cohort Analysis</h3>
+      <p>
+      <strong>Code:</strong> <a href="Cohort_Analysis/cohort_analysis_project.ipynb">Cohort Analysis</a><br>
+      <strong>Description:</strong> The project involves the Cohort Analysis of Retention Rate by Day.<br>
+      <strong>Technology:</strong> The project involves the Cohort Analysis of Retention Rate by Day.<br>
+      <strong>Result:</strong> The project involves the Cohort Analysis of Retention Rate by Day.
+      </p>
+   </li>
+   <li>
+      <h3>RFM Analysis</h3>
+      <p>
+      <strong>Code:</strong> <a href="Olist E-commerce metrics and RFM analysis/aksyonov_project.ipynb">RFM Analysis</a><br>
+      <strong>Description:</strong> The project about real e-commerce data getting from <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Kaggle</a>. The goal is to calculate main e-commerce metrics and produce RFM analysis.<br>
+      <strong>Technology:</strong> The project involves the Cohort Analysis of Retention Rate by Day.<br>
+      <strong>Result:</strong> The project involves the Cohort Analysis of Retention Rate by Day.
+      </p>
+   </li>
+   <li>
+      <h3>Human Resources Dashboard</h3>
+      <p>
+      <strong>Code:</strong> <a href="[Cohort_Analysis/cohort_analysis_project.ipynb](https://public.tableau.com/app/profile/ivan2501/viz/HRKPIsforBonuses/Dashboard1)">Human Resources Dashboard</a><br>
+      <strong>Description:</strong> The project involves the Cohort Analysis of Retention Rate by Day.<br>
+      <strong>Technology:</strong> The project involves the Cohort Analysis of Retention Rate by Day.<br>
+      <strong>Result:</strong> The project involves the Cohort Analysis of Retention Rate by Day.
+      </p>
+   </li>
+</ol>
+
+<h2>This is my portfolio for data analytics projects:</h2>
+<ol>
+   <li>
+      <a href="Cohort_Analysis/cohort_analysis_project.ipynb">Cohort Analysis</a>
+      <p><strong>Description:</strong> <br> The project involves the Cohort Analysis of Retention Rate by Day.</p>
+   </li>
+   <li>
+      <a href="Olist E-commerce metrics and RFM analysis/aksyonov_project.ipynb">RFM Analysis</a>
+      <h4>Description:</h4> 
+      <p>The project about real e-commerce data getting from <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Kaggle</a>. The goal is to calculate main e-commerce metrics and produce RFM analysis.</p>
+   </li>
+</ol>
+
+<h1 align="center">Hi, My name is Ivan!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <h3>I am a Data Analyst from Russia. If you want to contact me, feel free to send me a message:</h3>
+<h2>Contacts</h2>
 <ul>
-  <li>via Telegram: <a href="https://t.me/ivan_aksyonov">Ivan Aksyonov</a></li>
-  <li>via email: <a href="mailto:ivan_aksyonov@inbox.ru">Ivan Aksyonov</a></li>
+  <li>Telegram: <a href="https://t.me/ivan_aksyonov">Ivan Aksyonov</a></li>
+  <li>E-mail: <a href="mailto:ivan_aksyonov@inbox.ru">Ivan Aksyonov</a></li>
 </ul>
 <hr>
 <h1>Portfolio Projects</h1>
