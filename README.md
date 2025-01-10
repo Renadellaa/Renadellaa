@@ -8,7 +8,7 @@
    <li>
       <h3>Fashion blog</h3>
       <p>
-      <strong>...</strong> <a href="https://renadellaa.github.io/fashion-blog.github.io/">Fashion blog</a><br>
+      <strong>Ссылка на сайт:</strong> <a href="https://renadellaa.github.io/fashion-blog.github.io/">Fashion blog</a><br>
       <strong>Описание:</strong> Fashion - это адаптивный одностраничный сайт, посвященный тематике фэшн блога, с постами и с применением нативных технологий (HTML5, CSS3) и Pixel Perfect верстки. Проект создавался на основе макета из Figma.<br>
       <strong>Этапы проекта:</strong>
       <ol type="1">
