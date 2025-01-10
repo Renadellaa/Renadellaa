@@ -1,22 +1,22 @@
-<h1 align="center">Hi, My name is Delia!
+<h1 align="center">Привет, меня зовут Деля!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h2 align="center">I am a Frontend Developer from Russia.</h2>
+<h2 align="center">Я фронтенд разработчик из России.</h2>
 
-<h2>This is my portfolio for data analytics projects:</h2>
+<h2>Это мое портфолио проектов по созданию сайтов:</h2>
 <ol>
    <li>
-      <h3>...</h3>
+      <h3>Fashion blog</h3>
       <p>
-      <strong>...</strong> <a href="#">...</a><br>
-      <strong>Description:</strong> ...<br>
-      <strong>The stages of the project:</strong>
+      <strong>...</strong> <a href="https://renadellaa.github.io/fashion-blog.github.io/">Fashion blog</a><br>
+      <strong>Описание:</strong> Fashion - это адаптивный одностраничный сайт, посвященный тематике фэшн блога, с постами и с применением нативных технологий (HTML5, CSS3) и Pixel Perfect верстки. Проект создавался на основе макета из Figma.<br>
+      <strong>Этапы проекта:</strong>
       <ol type="1">
-         <li>...</li>
-         <li>...</li>
-         <li>...</li>
+         <li>Анализ макета.</li>
+         <li>Pixel Perfect верстка.</li>
+         <li>Адаптивная верстка для экранов разной ширины.</li>
       </ol>
-      <img src="#">
+      <img src="img/Fashion-blog.png">
       </p>
    </li>
    <li>
@@ -37,16 +37,8 @@
       <img src="#">
       </p>
    </li>
-   <li>
-      <h3>...</h3>
-      <p>
-      <strong>...</strong> <a href="#">...</a><br>
-      <strong>Description:</strong>...<br>
-      <img src="#">
-      </p>
-   </li>
 </ol>
-<h2>Languages and Tools:</h2>
+<h2>Языки и инструменты:</h2>
 <div style="
   display: inline;
 ">
@@ -55,7 +47,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23E9F631">
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23EC3F3F">
 </div>
-<h2>Contacts</h2>
+<h2>Контакты</h2>
 <ul>
    <li>
       Telegram: <a href="https://t.me/renadellaa">Delia Boldyreva</a>
