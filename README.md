@@ -8,6 +8,7 @@
    <li>
       <h3>Fashion blog</h3>
       <p>
+      <strong>Ссылка на проект:</strong> <a href="https://github.com/Renadellaa/fashion-blog.github.io">Fashion blog</a><br>
       <strong>Ссылка на сайт:</strong> <a href="https://renadellaa.github.io/fashion-blog.github.io/">Fashion blog</a><br>
       <strong>Описание:</strong> Fashion - это адаптивный одностраничный сайт, посвященный тематике фэшн блога, с постами и с применением нативных технологий (HTML5, CSS3) и Pixel Perfect верстки. Проект создавался на основе макета из Figma.<br>
       <strong>Этапы проекта:</strong>
@@ -20,18 +21,17 @@
       </p>
    </li>
    <li>
-      <h3>...</h3>
+      <h3>Castaway</h3>
       <p>
-      <strong>...</strong> <a href="#">...</a><br>
-      <strong>Description:</strong>...<br>
-      <strong>The stages of the project:</strong>
+      <strong>Ссылка на проект:</strong> <a href="https://github.com/Renadellaa/castaway.github.io">Castaway</a><br>
+      <strong>Ссылка на сайт:</strong> <a href="https://renadellaa.github.io/castaway.github.io/">Castaway</a><br>
+      <strong>Описание:</strong> Castaway - это одностраничный сайт для просмотра и прослушивания подкастов с формой подписки на обновления - с применением нативных технологий (HTML5, CSS3) и Pixel Perfect верстки. Проект создавался на основе макета из Figma.<br>
+      <strong>Этапы проекта:</strong>
          <ol type="1">
-            <li>...</li>
-            <li>...</li>
-            <li>...</li>
-            <li>...</li>
-            <li>...</li>
-            <li>...</li>
+            <li>Анализ макета.</li>
+            <li>Pixel Perfect верстка.</li>
+            <li>Использование Grid Layout в разделе комментариев.</li>
+            <li>Использование полей для ввода имени и электронной почты в разделе подписки на обновления.</li>
          </ol><br>
       <img src="#"><br>
       <img src="#">
