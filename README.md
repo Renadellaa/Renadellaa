@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Деля!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h2 align="center">Я фронтенд разработчик из России.</h2>
+<h2 align="center">Я фронтенд разработчик.</h2>
 
 <h2>Это мое портфолио проектов по созданию сайтов:</h2>
 <ol>
@@ -34,6 +34,21 @@
             <li>Использование полей для ввода имени и электронной почты в разделе подписки на обновления.</li>
          </ol><br>
       <img src="img/Castaway.png"><br>
+      </p>
+   </li>
+   <li>
+      <h3>Form Validation</h3>
+      <p>
+      <strong>Ссылка на проект:</strong> <a href="https://github.com/Renadellaa/Form-validation.github.io">Castaway</a><br>
+      <strong>Ссылка на сайт:</strong> <a href="https://renadellaa.github.io/Form-validation.github.io/">Castaway</a><br>
+      <strong>Описание:</strong> Form Validation - это html-страница с формой регистрации.<br>
+      <strong>Этапы проекта:</strong>
+         <ol type="1">
+            <li>Верстка форм.</li>
+            <li>Добавление стилей при помощи CSS3.</li>
+            <li>Написание Javascript кода для проверки форм на валидность и подсказок пользователю, что нужно исправить прежде чем форма отправится.</li>
+         </ol><br>
+      <img src="img/form-validation.png"><br>
       </p>
    </li>
 </ol>
