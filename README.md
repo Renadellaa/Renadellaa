@@ -6,6 +6,24 @@
 <h2>Это мое портфолио проектов по созданию сайтов:</h2>
 <ol>
    <li>
+      <h3>Robo School</h3>
+      <p>
+      <strong>Ссылка на проект:</strong> <a href="https://github.com/Renadellaa/robo-school">Robo School</a><br>
+      <strong>Ссылка на сайт:</strong> <a href="https://renadellaa.github.io/robo-school/">Robo School</a><br>
+      <strong>Описание:</strong> Robo School - это сайт школы по повышению квалификации в сфере робототехники и программирования. Сайт выполнен на React + Vite. Проект создавался на основе макета из Figma. На сайте реализовано модальное окно, тултипы, валидация форм.<br>
+      <strong>Этапы проекта:</strong>
+      <ol type="1">
+         <li>Анализ макета.</li>
+         <li>Установка React + Vite.</li>
+         <li>Разбивка макета на функциональные компоненты, соблюдая SRP (принцип единственной ответственности).</li>
+         <li>Данные для сайта я взяла из массива объектов, хранящихся локально.</li>
+         <li>Разработка модального окна.</li>
+         <li>Валидация форм.</li>
+      </ol>
+      <img src="img/robo-school-preview.png">
+      </p>
+   </li>
+   <li>
       <h3>Fashion blog</h3>
       <p>
       <strong>Ссылка на проект:</strong> <a href="https://github.com/Renadellaa/fashion-blog.github.io">Fashion blog</a><br>
